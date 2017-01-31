@@ -14,9 +14,9 @@ API Webapp for colaboratively mapping your cities bike racks. <a href="https://w
 
 ## Contributors
 
-* [Rafael de matos da silva](https://github.com/rafael-silva)
-
 * [Alice Wiener](https://github.com/awiener)
+
+* [Rafael de Matos da Silva](https://github.com/rafael-silva)
 
 ## Contact
 
