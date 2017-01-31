@@ -2,7 +2,7 @@
 ![alt tag](https://www.bikedeboa.com.br/apple-touch-icon.png)
 # Bike de boa 
 
-App for colaboratively mapping your cities bike racks. <a href="https://www.bikedeboa.com.br" target="_blank">Access here!</a>
+App for colaboratively mapping your cities bike racks. <a href="https://www.bikedeboa.com.br" target="_blank">Access the site here!</a>
 
 ## API
 
